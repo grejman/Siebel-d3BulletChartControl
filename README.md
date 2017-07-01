@@ -9,7 +9,7 @@ The chart is used to display the open time of a service request in relation to t
 
 # Implementation
 
-To implement the Physical Wraper the following will need to done.
+To implement the Physical Wraper the following will need to be done:
 
 * Load the Physical Wraper "gmD3BulletChartPW.js" to the "..\PUBLIC\scripts\Siebel\custom" folder.
 * Load the Style Sheet "gmD3BulletChart.css to the "..\PUBLIC\files\custom" folder.
