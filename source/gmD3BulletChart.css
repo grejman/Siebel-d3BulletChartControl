@@ -1,0 +1,12 @@
+/** Control: gmD3BulletChart **/
+.gm_bullet { font: 10px sans-serif; }
+.gm_bullet .marker { stroke: #000; stroke-width: 2px; }
+.gm_bullet .tick line { stroke: #666; stroke-width: .5px; }
+.gm_bullet .range.s0 { fill: #eee; }
+.gm_bullet .range.s1 { fill: #ddd; }
+.gm_bullet .range.s2 { fill: #ccc; }
+.gm_bullet .measure.s0 { fill: lightsteelblue; }
+.gm_bullet .measure.s1 { fill: steelblue; }
+.gm_bullet .gm_bullet_title { font-size: 14px; font-weight: bold; }
+.gm_bullet .gm_bullet_subtitle { fill: #999; }
+
