@@ -9,8 +9,9 @@ The chart is used to display the open time of a service request in relation to t
 
 # Siebel Vertion
 
-  IP2015
-  IP2016
+* IP2015
+* IP2016
+* IP2017/18/29/20
 
 # Implementation
 
@@ -30,7 +31,7 @@ To implement the Physical Wraper the following will need to be done:
 * Add the Physical Wraper to the Application under Manifest Administration.
 * Add the Style Sheet to the Application under Manifest Administration.
 
-Note: That I have not completed this control and will be making more changes.  The control is not supported on Tile applets.
+Note: That I have not completed this control and will be making more changes.  The control is NOW supported on Tile applets.
 
 # Contributions
 
